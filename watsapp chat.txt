@@ -4,3 +4,4 @@ Authore:nitin
 2.Chat screen code
 3 last seen code
 4 Attachments(image,audio,video) code
+5 Hiding the last seen
